@@ -1,5 +1,5 @@
 # Build an Image Style Transfer Tool using CycleGANs
-## Author : Sina Nazeri 
+## Author : Roxanne Li 
 --------------------------------
 
 Generative Adversarial Networks, or GANs for short, are a type of deep-learning generative model. A vanilla GAN's architecture involves two networks: a Generator network for generating new examples and a Discriminator network for classifying examples as real (drawn from the training data) or fake (drawn from the Generator). 
